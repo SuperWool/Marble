@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Marble</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="read_data">Read Data</string>
+    <string name="plot_graph">Plot Graph</string>
+    <string name="title_activity_plot_graph">Plot Graph</string>
+    <string name="title_activity_read_data">Read Data</string>
+    <string name="title_activity_main_menu">Main Menu</string>
+    <string name="write_data">Write data</string>
+
+</resources>

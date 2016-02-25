@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5AD1FF"
+    tools:context="sim.marble.IntroSplash"
+    tools:ignore="HardcodedText" >
+    
+  	<ImageView
+  	    android:id="@+id/intro"
+  	    android:layout_width="match_parent"
+  	    android:layout_height="match_parent"
+  	    android:layout_centerInParent="true"
+  	    android:contentDescription="Intro"
+  	    android:src="@drawable/splash" />
+  	
+</RelativeLayout>

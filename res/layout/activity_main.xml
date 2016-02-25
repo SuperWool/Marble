@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/theme_background"
+    android:orientation="vertical"
+    tools:context="sim.marble.MainMenu" >
+
+    <Button
+        android:id="@+id/read_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/main_menu_button"
+        android:gravity="center"
+        android:text="@string/read_data"
+        android:textColor="#FFF"
+        android:textSize="44sp" />
+
+    <Button
+        android:id="@+id/plot_graph"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/main_menu_button"
+        android:gravity="center"
+        android:text="@string/plot_graph"
+        android:textColor="#FFF"
+        android:textSize="44sp" />
+
+</LinearLayout>
